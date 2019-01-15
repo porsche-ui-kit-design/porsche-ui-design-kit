@@ -11,7 +11,7 @@
     <item>
       <title>Porsche UI Design Kit</title>
       <pubDate>Tue, 15 Jan 2019 13:00:00 +0000</pubDate>
-      <enclosure url="porsche-ui-design-kit.sketch" type="application/octet-stream" sparkle:version="0.5"/>
+      <enclosure url="https://github.com/porscheui/porsche-ui-design-kit/raw/master/v0.5/porsche-ui-design-kit.sketch" type="application/octet-stream" sparkle:version="0.5"/>
     </item>
   </channel>
 </rss>
